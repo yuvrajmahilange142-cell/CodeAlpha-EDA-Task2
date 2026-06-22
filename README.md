@@ -1,26 +1,33 @@
-# CodeAlpha Internship Project - Task 2 (EDA)
+# CodeAlpha Data Analytics Internship
 
-This project is part of the CodeAlpha Internship.
+This repository contains the projects completed during my CodeAlpha Data Analytics Internship.
 
-## Objective
-Perform Exploratory Data Analysis (EDA) using Python to understand data, find patterns and insights.
+## Completed Tasks
 
-## Tools Used
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
+### Task 1: Web Scraping
 
-## Steps
-- Data Cleaning
-- Data Analysis
-- Data Visualization
+* Extracted book names and prices from a website using BeautifulSoup.
+* Stored the scraped data in a CSV file.
 
-## File
-copy_of_CodeAlpha_EDA_Task2.ipynb
+### Task 2: Exploratory Data Analysis (EDA)
 
-## Outcome
-Useful insights and visual understanding of data.
+* Analyzed the Students Performance Dataset using Pandas.
+* Performed data cleaning, summary statistics, and insights generation.
 
-## 👨‍💻 Author
+### Task 3: Data Visualization
+
+* Created visualizations using Matplotlib.
+* Generated Bar Charts, Histograms, Box Plots, and Scatter Plots.
+
+## Tools & Technologies
+
+* Python
+* Pandas
+* BeautifulSoup
+* Matplotlib
+* Google Colab
+* GitHub
+
+## Author
+
 Yuvraj Mahilange
